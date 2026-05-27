@@ -1,4 +1,4 @@
-# SuperiorGauges – Zaawansowany ekran wskaźników dla VESC Tool
+2# SuperiorGauges – Zaawansowany ekran wskaźników dla VESC Tool
 
 Zamiennik domyślnego ekranu RT Data w VESC Tool, zaprojektowany dla rowerów elektrycznych, elektrycznych hulajnóg i innych pojazdów opartych na sterownikach VESC. W repozytorium znajdują się również dwa skrypty LispBM do sterowania lampką STOP.
 ---
@@ -6,7 +6,7 @@ Zamiennik domyślnego ekranu RT Data w VESC Tool, zaprojektowany dla rowerów el
 ![Ekran_kalibracji](https://github.com/user-attachments/assets/3166a0f4-dd1e-4397-bebf-5be6a326e277)
 ---
 
-## Ekran wskaźników – SuperiorGauges.qml
+## Ekran wskaźników – SuperiorGaugesV2.qml
 
 ### Nowe Funkcje
 
