@@ -1,4 +1,4 @@
-# SuperiorGauges – Instrukcja
+2# SuperiorGauges – Instrukcja
 Najpierw trzeba wgrać Kalibracja_Napięcia.vescpkg i sprawdzić mnożnik kalibracji dla swojego sterownika.
 Następnie wprowadzić tę wartość w punkcie 5 oraz napięcia dla różnych poziomów naładowania w punkcie 6.
 Następnie spakować plik QML w Vesc Package i wgrać ponownie na vesc.
@@ -17,7 +17,7 @@ następnie wybieramy plik Kalibracja_Napięcia.vescpkg i go wgrywamy.
 Po wgraniu pokaże się dodatkowa zakładka w której zobaczymy nowe zegary, a pod nimi można sprawdzić z jakim mnożnikiem na woltomierzu pojawi się poprawne napięcie. (Uwaga vesc przy każdym uruchomieniu będzie wracał do domyślnej wartości mnożnika napięcia i tabelki SOC, dlatego trzeba je nadpisać w pliku qml.)
 ---
 
-Pobieramy plik SuperiorGauges.qml następnie
+Pobieramy plik SuperiorGaugesV2.qml następnie
 uruchamiamy program Vesc tool na komputerze (nie trzeba łączyć się z sterownikiem)
 ---
 Wybieramy opcję QML scripting
