@@ -2,8 +2,8 @@
 
 Zamiennik domyślnego ekranu RT Data w VESC Tool, zaprojektowany dla rowerów elektrycznych, elektrycznych hulajnóg i innych pojazdów opartych na sterownikach VESC. W repozytorium znajdują się również dwa skrypty LispBM do sterowania lampką STOP.
 ---
-![Ekran_główny](https://github.com/user-attachments/assets/76baa709-ef88-4dd6-8ae5-f6c99b10cc27)
-![Ekran_kalibracji](https://github.com/user-attachments/assets/3166a0f4-dd1e-4397-bebf-5be6a326e277)
+<img width="1080" height="2231" alt="IMG_20260527_191641" src="https://github.com/user-attachments/assets/183e1a74-5ffa-4482-b189-17ded2a6c351" />
+<img width="1080" height="2228" alt="IMG_20260527_191600" src="https://github.com/user-attachments/assets/ea5ae28a-1d36-463e-87c1-010d0cfed30d" />
 ---
 
 ## Ekran wskaźników – SuperiorGaugesV2.qml
